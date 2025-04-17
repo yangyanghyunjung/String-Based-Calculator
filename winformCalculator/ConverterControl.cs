@@ -22,22 +22,22 @@ namespace winformCalculator
             switch(cmbConvertType.SelectedIndex)
             {
                 case (int)EConvertType.BINARY_TO_DECIMAL:
-                    txtNum.Text =  Calculator.ToDecimalOrNull(txtNum.Text);
+                    txtNum.Text =  Calculator.ToDecimal(txtNum.Text);
                     break;
                 case (int)EConvertType.BINARY_TO_HEX:
-                    txtNum.Text = Calculator.ToHexOrNull(txtNum.Text);
+                    txtNum.Text = Calculator.ToHex(txtNum.Text);
                     break;
                 case (int)EConvertType.DECIMAL_TO_BINARY:
-                    txtNum.Text = Calculator.ToBinaryOrNull(txtNum.Text);
+                    txtNum.Text = Calculator.ToBinary(txtNum.Text);
                     break;
                 case (int)EConvertType.DECIMAL_TO_HEX:
-                    txtNum.Text = Calculator.ToHexOrNull(txtNum.Text);
+                    txtNum.Text = Calculator.ToHex(txtNum.Text);
                     break;
                 case (int)EConvertType.HEX_TO_BINARY:
-                    txtNum.Text = Calculator.ToBinaryOrNull(txtNum.Text);
+                    txtNum.Text = Calculator.ToBinary(txtNum.Text);
                     break;
                 case (int)EConvertType.HEX_TO_DECIMAL:
-                    txtNum.Text = Calculator.ToDecimalOrNull(txtNum.Text);
+                    txtNum.Text = Calculator.ToDecimal(txtNum.Text);
                     break;
                 default:
                     txtNum.Text = "error";

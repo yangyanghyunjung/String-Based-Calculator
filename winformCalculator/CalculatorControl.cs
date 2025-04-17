@@ -37,11 +37,11 @@ namespace winformCalculator
             switch(cmbOperator.SelectedItem)
             {
                 case "+":
-                    resultTxt.Text = calculator.AddOrNull(txtOperation1.Text, txtOperation2.Text, out bOverflow);
+                    resultTxt.Text = calculator.Add(txtOperation1.Text, txtOperation2.Text, out bOverflow);
                     break;
 
                 case "-":
-                    resultTxt.Text = calculator.SubtractOrNull(txtOperation1.Text, txtOperation2.Text, out bOverflow);
+                    resultTxt.Text = calculator.Subtract(txtOperation1.Text, txtOperation2.Text, out bOverflow);
                     break;
                 case "*":
                     break;

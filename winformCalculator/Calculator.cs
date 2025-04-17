@@ -22,7 +22,7 @@ namespace winformCalculator
         /// </summary>
         /// <param name="num">헤더X</param>
         /// <returns>헤더X</returns>
-        public static string GetOnesComplement(string num)
+        private static string GetOnesComplement(string num)
         {
             char[] binaryArray = num.ToCharArray();
             for (int i = 0; i < binaryArray.Length; i++)
@@ -37,7 +37,7 @@ namespace winformCalculator
         /// </summary>
         /// <param name="num">헤더X</param>
         /// <returns>헤더X</returns>
-        public static string GetTwosComplement(string num)
+        private static string GetTwosComplement(string num)
         {
             char[] binaryArray = GetOnesComplement(num).ToCharArray();
             int carry = 1;
@@ -122,7 +122,7 @@ namespace winformCalculator
         /// </summary>
         /// <param name="num"></param>
         /// <returns></returns>
-        public static string ToHex(string num)
+        public  static string ToHex(string num)
         {
             StringBuilder result = new StringBuilder();
             if (num.Contains("0x"))
@@ -170,7 +170,7 @@ namespace winformCalculator
         /// </summary>
         /// <param name="num"></param>
         /// <returns></returns>
-        public static string ToDecimal(string num)
+        public  static string ToDecimal(string num)
         {
             #region decimal 
             if (num[0] - '0' > 0 || num[0] == '-')
@@ -318,7 +318,7 @@ namespace winformCalculator
         /// <param name="num1"></param>
         /// <param name="num2"></param>
         /// <returns>1001xxxxxx</returns>
-        public string AddBinaryNumbers(string num1, string num2)
+        private string AddBinaryNumbers(string num1, string num2)
         {
             StringBuilder result = new StringBuilder();
             int tempResult = 0;
@@ -515,7 +515,7 @@ namespace winformCalculator
             return true;
         }
 
-        public static string ConvertBinaryToDecimal(string num)
+        private static string ConvertBinaryToDecimal(string num)
         {
             if (num.Equals("0000"))
             {

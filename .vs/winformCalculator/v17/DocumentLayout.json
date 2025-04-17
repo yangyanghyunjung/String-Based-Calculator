@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\study\\toy_project\\calculator\\winformCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|c:\\study\\toy_project\\calculator\\winformcalculator\\winformcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\convertercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|c:\\study\\toy_project\\calculator\\winformcalculator\\winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|solutionrelative:winformcalculator\\calculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3643CA83-5F22-485D-90F0-0A2E9AD9C84C}|winformCalculator\\winformCalculator.csproj|C:\\study\\toy_project\\calculator\\winformCalculator\\winformcalculator\\calculatorcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CalculatorControl.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\study\\toy_project\\calculator\\winformCalculator\\winformCalculator\\CalculatorControl.cs",
               "RelativeDocumentMoniker": "winformCalculator\\CalculatorControl.cs",
@@ -161,21 +161,22 @@
               "RelativeDocumentMoniker": "winformCalculator\\CalculatorControl.cs",
               "ToolTip": "C:\\study\\toy_project\\calculator\\winformCalculator\\winformCalculator\\CalculatorControl.cs",
               "RelativeToolTip": "winformCalculator\\CalculatorControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T04:44:47.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\study\\toy_project\\calculator\\winformCalculator\\winformCalculator\\MainForm.cs",
               "RelativeDocumentMoniker": "winformCalculator\\MainForm.cs",
               "ToolTip": "C:\\study\\toy_project\\calculator\\winformCalculator\\winformCalculator\\MainForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "winformCalculator\\MainForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:40:45.725Z"
+              "WhenOpened": "2025-04-14T04:40:45.725Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
@@ -187,7 +188,8 @@
               "RelativeToolTip": "winformCalculator\\MainForm.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAhwBcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:09:18.478Z"
+              "WhenOpened": "2025-04-14T04:09:18.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -209,7 +211,7 @@
               "RelativeDocumentMoniker": "winformCalculator\\ConverterControl.cs",
               "ToolTip": "C:\\study\\toy_project\\calculator\\winformCalculator\\winformCalculator\\ConverterControl.cs",
               "RelativeToolTip": "winformCalculator\\ConverterControl.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwDEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T03:42:33.475Z",
               "EditorCaption": ""
@@ -222,7 +224,7 @@
               "RelativeDocumentMoniker": "winformCalculator\\Calculator.cs",
               "ToolTip": "C:\\study\\toy_project\\calculator\\winformCalculator\\winformCalculator\\Calculator.cs",
               "RelativeToolTip": "winformCalculator\\Calculator.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAtwIYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAcCAAAAAAAAAAD4vw8CAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T03:56:18.323Z",
               "EditorCaption": ""
