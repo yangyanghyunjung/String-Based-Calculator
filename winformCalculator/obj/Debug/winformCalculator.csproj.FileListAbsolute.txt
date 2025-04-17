@@ -1,0 +1,13 @@
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\bin\Debug\winformCalculator.exe.config
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\bin\Debug\winformCalculator.exe
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\bin\Debug\winformCalculator.pdb
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.csproj.AssemblyReference.cache
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.Properties.Resources.resources
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.csproj.GenerateResource.cache
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.csproj.CoreCompileInputs.cache
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.exe
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.pdb
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.CalculatorControl.resources
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.MainForm.resources
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.ConverterControl.resources
+C:\study\toy_project\calculator\winformCalculator\winformCalculator\obj\Debug\winformCalculator.ToggleButton.resources
