@@ -133,7 +133,7 @@ private string ConvertBinaryToDecimal(string num)
 
 ## 📷 
 
-- **Base Conversion**
+- **Base Conversion && Cross-base calculation**
 ![Image](https://github.com/user-attachments/assets/56d9acf9-1dbe-4a12-b586-671883a09af9)   
 
 - **No Under Flow**
